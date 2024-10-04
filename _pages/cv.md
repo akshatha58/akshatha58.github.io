@@ -9,56 +9,49 @@ redirect_from:
 
 {% include base_path %}
 
+[CV (PDF Version)](files/Akshatha_CV_.pdf)
+
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.Tech. in Computational and Data Science, Indian Institute of Science Bengaluru (2025, expected)
+* B.Tech. (Hons.) in Chemical Engineering, Manipal Institute of Technology Manipal (2023)
 
-Work experience
+Projects
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* M. Tech. Dissertation (May 2024 – ongoing)     
+  * Title: “Optimisation of Fold-based Modular Force Field Parameters for Globular Proteins”
+  * Advisor: Dr Debnath Pal, Professor, CDS (Biomolecular Computation Laboratory)
+* B. Tech. (Hons.) Dissertation (Jul 2022 – May 2023)                                        
+  * Title: “Applications of Deep Eutectic Solvents (DES): Experimental Investigations and Atomistic Insights Using Molecular Dynamics Simulations”                                    
+  * Advisor: Dr -Ing Anoop Kishore Vatti, Assistant Professor, Department of Chemical Engineering
+* Project Cell-tinel (iGEM)       
+  * Title: Developing an Endophytic Biopesticide for the Treatment of Stem Borers in paddy        * Member, Research Subsystem, Manipal BioMachines [Project Website](https://2021.igem.org/Team:MIT_MAHE)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
+    
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
+* Programming Languages
+  * Python
+  * C++
+  * Shell
+* Softwares
+  * MATLAB
+  * Scrodinger
+  * GROMACS
+    
+* Others
+  * LaTeX
+    
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Volunteer and registration desk management, BDBio Symposium 2024, IISc
+* Indian Institute of Chemical Engineers, Manipal Chapter
+  * Managing Committee Member (2021), Technical Head (2022)
+* Research Society Manipal
+  * Member, Biotechnology Domain (Dec 2021 - Dec 2022)
