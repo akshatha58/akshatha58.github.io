@@ -16,5 +16,5 @@ I am also interested in the broader aspects of green chemistry and the intersect
 
 ## My Background
 I received my BTech (Hons) degree in [Chemical Engineering](https://www.manipal.edu/mit/department-faculty/department-list/chemical.html) (with a minor specialisation in Fundamentals of Computing) from [Manipal Institute of Technology (MIT)](https://www.manipal.edu/mit.html), Manipal, Karnataka, in 2023.  
-I am pursuing an M.Tech. Degree in [Computational and Data Science](https://cds.iisc.ac.in/). Along with coursework, I am currently working on my Master's dissertation project in the [Biomolecular Computation Lab](http://pallab.serc.iisc.ernet.in/) under [Professor Debnath Pal](https://cds.iisc.ac.in/faculty/dpal/). 
+I am pursuing an MTech (Course) Degree in [Computational and Data Science](https://cds.iisc.ac.in/). Along with coursework, I am currently working on my Master's dissertation project in the [Biomolecular Computation Lab](http://pallab.serc.iisc.ernet.in/) under [Professor Debnath Pal](https://cds.iisc.ac.in/faculty/dpal/). 
 
