@@ -25,7 +25,8 @@ Projects
   * Title: “Applications of Deep Eutectic Solvents (DES): Experimental Investigations and Atomistic Insights Using Molecular Dynamics Simulations”                                    
   * Advisor: Dr -Ing Anoop Kishore Vatti, Assistant Professor, Department of Chemical Engineering
 * Project Cell-tinel (iGEM)       
-  * Title: Developing an Endophytic Biopesticide for the Treatment of Stem Borers in paddy        * Member, Research Subsystem, Manipal BioMachines [Project Website](https://2021.igem.org/Team:MIT_MAHE)
+  * Title: Developing an Endophytic Biopesticide for the Treatment of Stem Borers in paddy
+  * Member, Research Subsystem, Manipal BioMachines [Project Website](https://2021.igem.org/Team:MIT_MAHE)
 
     
 Skills
