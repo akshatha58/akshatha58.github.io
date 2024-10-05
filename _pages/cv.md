@@ -51,7 +51,7 @@ Publications
   
 Service and leadership
 ======
-* Volunteer and registration desk management, BDBio Symposium 2024, IISc
+* Volunteer and registration desk management, [BDBio Symposium](https://www.bdbio.in/) 2024 at IISc
 * Indian Institute of Chemical Engineers, Manipal Chapter
   * Managing Committee Member (2021), Technical Head (2022)
 * Research Society Manipal
