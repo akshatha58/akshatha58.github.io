@@ -37,8 +37,8 @@ Skills
   * Shell
 * Softwares
   * MATLAB
-  * Scrodinger
-  * GROMACS
+  * GROMACS and Scrodinger
+  * Aspen and AutoCAD
     
 * Others
   * LaTeX
