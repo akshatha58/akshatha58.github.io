@@ -19,7 +19,7 @@ I am interested in green chemistry and the intersection of computational methods
 
 I came across simulation techniques to model protein systems and studied how protein stability was affected in various solvent environments, such as Deep Eutectic Solvents (DESs). As I delved further into the field during my master's, I discovered more of the computational aspects of statistical thermodynamics, bioinformatics, and molecular simulations, how force fields were developed and optimised, their drawbacks and how they could be improved further.
 
-Currently, my work revolves around evaluating the performance of conventional force fields in predicting the structure and dynamics of different protein folds in water, comparing results with extensive solution NMR data. Understanding the effects of force field parameters on various protein architectures and secondary structures can help us optimise force fields in a modular (fold-based) manner to represent protein behaviour more accurately. 
+Currently, my work revolves around evaluating the performance of conventional force fields in predicting the structure and dynamics of different protein folds in water, comparing results with extensive solution NMR data. Understanding the effects of force field parameters on various protein architectures and secondary structures can help us optimise force fields in a modular (fold-based) manner to represent protein behaviour more accurately. Doing this can eventually aid us in designing more efficient drug candidates, stable biocatalysts, and design proteins for novel applications!
 
 
 
