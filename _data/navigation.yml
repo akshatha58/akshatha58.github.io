@@ -23,5 +23,5 @@ main:
   - title: "Expressions"
     url: /teaching/ 
     
-  - title: "Guide"
-    url: /markdown/
+  # - title: "Guide"
+    # url: /markdown/
