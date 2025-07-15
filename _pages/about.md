@@ -17,12 +17,8 @@ I recently completed my M.Tech. (Course) Degree in [Computational and Data Scien
 
 ## My Research Interests
 
-My research interests are diverse and evolve over time. My background in chemical engineering and data science has given me an ample set of intriguing problem statements to tackle! Broadly, I am interested in green chemistry, interfacial science, and molecular simulations. I've explored various areas including nanotechnology, asphaltene separation and protein simulations till date.
+My research interests are diverse and evolve over time. My background in chemical engineering and data science has given me an ample set of intriguing problem statements to tackle! Broadly, I am interested in green chemistry, interfacial science, and molecular simulations. I've explored various areas including nanotechnology, asphaltene separation and protein simulations till date, gradually shifting from the experimental to the theoretical realm. Feel free to check out my [projects](https://akshatha58.github.io/year-archive/) and [publications](https://akshatha58.github.io/publications/) for more academic info!
 
-During my undergrad, I came across molecular dynamics (MD) simulation techniques to model various systems, ranging from asphaltenes to proteins. In a two-part study, I looked at various applications of Deep Eutectic Solvents (DESs) as asphaltene separating agents, and as solvents for lysozyme stability. As I delved further into the field during my Master's, I explored computational aspects of statistical thermodynamics, bioinformatics, and classical MD simulations, how force fields were developed and optimised, their drawbacks and how they could be improved further.
+ ## My Hobbies
 
-My Master's dissertation revolved around evaluating the performance of conventional force fields and water models. I compared the simulated behaviour (structure/dynamics) of different protein folds in water with observables from experimental solution NMR data. Such analyses could eventually help us optimise force fields in a modular (fold-based) manner to represent protein behaviour more accurately. More accurate models mean better design for potential drug candidates, stable biocatalysts, and more!
-
-
- ## Hobbies
-
+I am trained in Indian classical music, and have been playing the violin for eleven years now.  I enjoy reading novels and jamming with fellow musicians, irrespective of genre. I also dabble in zentangle and mandala art (check out my [portfolio](https://www.behance.net/akshatha_hebbar)!
