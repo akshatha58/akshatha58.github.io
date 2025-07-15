@@ -48,10 +48,4 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Roles
-======
-* Volunteer and registration desk management, [BDBio Symposium](https://www.bdbio.in/) 2024 at IISc
-* Indian Institute of Chemical Engineers, Manipal Chapter
-  * Managing Committee Member (2021), Technical Head (2022)
-* Research Society Manipal
-  * Member, Biotechnology Domain (Dec 2021 - Dec 2022)
+
