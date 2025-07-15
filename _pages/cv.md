@@ -39,7 +39,7 @@ Education
 Projects
 =====
   <ul>{% for post in site.year-archive reversed %}
-    {% include posts-single-cv.html %}
+    {% include archive-single-cv.html %}
   {% endfor %}</ul>
     
 Publications
