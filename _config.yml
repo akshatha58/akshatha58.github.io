@@ -22,13 +22,13 @@ repository               : "akshatha58/akshatha58.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.jpg"
+  avatar           : "20230711_150401.jpg"
   name             : "Akshatha"
   pronouns         : # example: "she/her"  
-  bio              : "Masters student, Computational and Data Science"
-  location         : "Bengaluru, India"
-  employer         : "Indian Institute of Science"
-  uri              : # URL
+  bio              : "Grad student"
+  location         : "India"
+  employer         : #"Indian Institute of Science"
+  url              : "https://akshatha58.github.io"
   email            : "akshatha.hebbar.ce@gmail.com" 
 
   # Academic websites
@@ -130,7 +130,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : #&twitter
 facebook:
   username               :
   app_id                 :
