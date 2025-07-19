@@ -9,14 +9,14 @@ redirect_from:
 
 {% include base_path %}
 
-[CV (Last modified: 18 June 2025)](cv.pdf)
+[CV (Last modified: 19 July 2025)](CV.pdf)
 
 Education
 ======
 
-* B.Tech. (Hons.) in Chemical Engineering, Manipal Institute of Technology Manipal (2023)
-  * Dissertation Title: “Applications of Deep Eutectic Solvents (DES): Experimental Investigations and Atomistic Insights Using Molecular Dynamics Simulations”
-  * Advisor: Dr -Ing Anoop Kishore Vatti, Assistant Professor, Department of Chemical Engineering
+* **B.Tech. (Hons.) in Chemical Engineering, Manipal Institute of Technology Manipal (2023)**
+  * Dissertation Title: “_Applications of Deep Eutectic Solvents (DES): Experimental Investigations and Atomistic Insights Using Molecular Dynamics Simulations_”
+  * Advisor: Dr -Ing Anoop Kishore Vatti, Associate Professor, Department of Chemical Engineering
   * Scholarship: AICTE Scholarship (Rank 1)
   * Awards: Gold medal, Dr PG Krishnamoorthy Memorial Award (2022), Best Outgoing Student Award (2023), Diamond Jubilee Awards (2020-22)
   
@@ -25,8 +25,8 @@ Education
   During my senior year in undergrad, I came across molecular dynamics (MD) simulation techniques to model various systems, ranging from asphaltenes to proteins. In a two-part study, I looked at various applications of Deep Eutectic Solvents (DESs) as asphaltene separating agents, and as solvents for lysozyme stability. 
 
   
-* M.Tech. in Computational and Data Science, Indian Institute of Science Bengaluru (2025)
-  * Dissertation Title: “Evaluation of Force Fields for the Optimisation of Fold-based Modular Parameters for Globular Proteins”
+* **M.Tech. in Computational and Data Science, Indian Institute of Science Bengaluru (2025)**
+  * Dissertation Title: “_Evaluation of Force Fields for the Optimisation of Fold-based Modular Parameters for Globular Proteins_”
   * Advisor: Dr Debnath Pal, Professor, CDS (Biomolecular Computation Laboratory)
   * Scholarship: MOE Fellowship
 
@@ -34,7 +34,8 @@ Education
 
   My Master's dissertation revolved around evaluating the performance of conventional force fields and water models. I compared the simulated behaviour (structure/dynamics) of different protein folds in water with observables from experimental solution NMR data. Such analyses could eventually help us optimise force fields in a modular (fold-based) manner to represent protein behaviour more accurately. More accurate models mean better design for potential drug candidates, stable biocatalysts, and more!
 
-* Incoming PhD student in Chemistry, State University of New York, Stony Brook (202?)
+* **Incoming PhD student in Chemistry, Stony Brook University, SUNY (202?)**
+  * I aim to explore topics in computational chemistry, quantum mechanics, and machine learning, and research on their applications in solving problems in interfacial science / biophysical / electrochemical systems. Let's see where this journey takes me!
 
 Projects
 =====
