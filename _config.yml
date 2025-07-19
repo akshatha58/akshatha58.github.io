@@ -7,6 +7,7 @@
 # server process.
 
 # Basic Site Settings
+minimal_mistakes_skin    : "dark"
 locale                   : "en-US"
 title                    : "Akshatha"
 title_separator          : "-"
@@ -238,6 +239,8 @@ defaults:
       comments: true
       share: true
       related: true
+      show_date: true
+      read_time: true
   # _pages
   - scope:
       path: ""
