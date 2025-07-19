@@ -17,7 +17,11 @@ I recently completed my M.Tech. (Course) degree in [Computational and Data Scien
 
 ## My Research Interests
 
-My research interests are diverse and evolve over time. My background in chemical engineering and data science has given me an ample set of intriguing problem statements to tackle! Broadly, I am interested in interfacial science and molecular simulations. I've explored various areas including nanotechnology, asphaltene separation and protein simulations till date, gradually shifting from the experimental to the theoretical realm. Feel free to check out my [projects](https://akshatha58.github.io/year-archive/) and [publications](https://akshatha58.github.io/publications/) for more academic info!
+My research interests are diverse and evolve over time. My background in chemical engineering and data science has given me an ample set of intriguing problem statements to tackle! 
+
+Broadly, I am interested in interfacial science and molecular simulations. I've explored various areas including nanotechnology, asphaltene separation and protein simulations till date, gradually shifting from the experimental to the theoretical realm. 
+
+Feel free to check out my [projects](https://akshatha58.github.io/year-archive/) and [publications](https://akshatha58.github.io/publications/) for more academic info!
 
 ## My Hobbies
 
