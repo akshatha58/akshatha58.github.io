@@ -5,6 +5,7 @@ category: manuscripts
 permalink: /publication/2023-02-01-carbon-dots
 date: 2023-02-01
 venue: 'Chemosphere'
+excerpt: ' '
 paperurl: https://doi.org/10.1016/j.chemosphere.2022.137308
 ---
 
