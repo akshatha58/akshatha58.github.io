@@ -5,7 +5,7 @@ sector"
 collection: publications
 category: manuscripts
 permalink: /publication/2022-03-02-bioactive-compounds
-excerpt: 'Literature review on the extraction, characterisation, and applications of bioactive compounds.'
+excerpt: ' '
 date: 2022-03-02
 venue: 'Environmental Science and Pollution Research'
 paperurl: 'https://doi.org/10.1007/s11356-022-19423-4'
