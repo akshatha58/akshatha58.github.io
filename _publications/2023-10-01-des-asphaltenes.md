@@ -5,6 +5,7 @@ category: manuscripts
 permalink: /publication/2023-10-01-des-asphaltenes
 date: 2023-10-01
 venue: 'Journal of Molecular Liquids'
+excerpt: ' '
 paperurl: https://doi.org/10.1016/j.molliq.2023.122627
 ---
 
